@@ -1,9 +1,9 @@
 {
   "name": "takenawa-theme-modified",
-  "publisher": "HeavenOSK",
+  "publisher": "heavenosk",
   "displayName": "Takenawa Theme - modified",
   "description": "Takenawa Theme. A dark and colorful theme! modified by manu. then modified by HeavenOSK",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/HeavenOSK/takenawa-theme"
   },
+  "author": {
+		"name": "HeavenOSK"
+	},
   "keywords": [
     "manu",
     "takenawa",
