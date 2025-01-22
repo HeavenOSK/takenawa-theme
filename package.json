@@ -1,8 +1,8 @@
 {
-  "name": "takenawa-theme",
-  "publisher": "emanuelletakenawa",
-  "displayName": "Takenawa Theme -  modified",
-  "description": "Takenawa Theme. A dark and colorful theme! modified by manu",
+  "name": "takenawa-theme-modified",
+  "publisher": "HeavenOSK",
+  "displayName": "Takenawa Theme - modified",
+  "description": "Takenawa Theme. A dark and colorful theme! modified by manu. then modified by HeavenOSK",
   "version": "0.1.2",
   "engines": {
     "vscode": "^1.76.0"
@@ -13,7 +13,7 @@
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emanuelletakenawa/takenawa-theme"
+    "url": "https://github.com/HeavenOSK/takenawa-theme"
   },
   "keywords": [
     "manu",
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Takenawa Theme",
+        "label": "Takenawa Theme - modified",
         "uiTheme": "vs-dark",
         "path": "./themes/takenawa-theme.json"
       }
